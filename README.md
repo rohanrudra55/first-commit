@@ -24,7 +24,7 @@ It's for first time in github
  ```
  - To give commit message
  ```bash
-    git commit -m "Yor message"
+    git commit -m "Your message"
  ```
  - To push the changes
  ```bash
