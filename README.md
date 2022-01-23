@@ -4,7 +4,9 @@ It's for first time in github
 <div align="center">
 <img src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif"></img>
 </div>
+
 ---
+
 #### For inital use
 - Insatll Git Version Control for CLI
 - Sign in using
