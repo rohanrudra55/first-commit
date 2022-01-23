@@ -2,7 +2,7 @@
 
 It's for first time in github
 
-<img align:center height=50% width=50% src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif"></img>
+<img align="center" src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif"></img>
 
 ---
 #### For inital use
