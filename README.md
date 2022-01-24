@@ -16,7 +16,7 @@ It's for first time in github
 ```bash
     git config --global user.email "EMAIL"
 ````
-- Clone a repository, first copy the _url_ then 
+- Clone a repository, first copy the [ _url_ ](https://github.com/rohanrudra55/first-commit.git) then 
 
 ```bash
     git clone   URL
