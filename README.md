@@ -8,8 +8,8 @@ It's for first time in github
 ---
 
 #### For inital use
-- Insatll Git Version Control for CLI
-- Sign in using
+- Insatll [Git](https://git-scm.com) Version Control for CLI
+- Sign in using CLI
 ```bash
     git config --global user.name "USERNMAE"
 ``` 
@@ -35,5 +35,23 @@ It's for first time in github
     git push
  ``` 
  ## More Commands 
-
- 
+ - To update local repository with git 
+ ```bash
+    git pull
+ ```
+ - To delete changes from local machine on repository 
+ ```bash
+    git stash
+ ```
+ - To check working branch
+```bash
+    git branch
+```
+ - To switch branch
+```bash
+    git checkout {branchname}
+```
+ - To create new branch
+```bash
+    git checkout -b {branchname}
+```
